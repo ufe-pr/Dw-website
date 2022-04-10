@@ -1,0 +1,15 @@
+.imgbg {
+  height: 100%;
+  width: 100%;
+  padding: 30px auto;
+}
+
+.svgLogo {
+  text-align: center;
+  width: 100%;
+  height: 100%;
+  display: block;
+  position: absolute;
+  margin: auto;
+  z-index: 1;
+}
